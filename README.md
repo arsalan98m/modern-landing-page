@@ -1,3 +1,9 @@
+# Figma Design
+
+Open [Figma](https://www.figma.com/file/1jNWA2TUvIVxJxZfEgkY0W/gpt-design?node-id=1%3A14) to view it in the browser.
+
+<!-- https://www.figma.com/file/1jNWA2TUvIVxJxZfEgkY0W/gpt-design?node-id=1%3A14 -->
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
