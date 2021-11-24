@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/modern-landing-page/static/css/main.186b540a.chunk.css",
+    "main.js": "/modern-landing-page/static/js/main.fc0598c8.chunk.js",
+    "main.js.map": "/modern-landing-page/static/js/main.fc0598c8.chunk.js.map",
+    "runtime-main.js": "/modern-landing-page/static/js/runtime-main.9ae2cfaa.js",
+    "runtime-main.js.map": "/modern-landing-page/static/js/runtime-main.9ae2cfaa.js.map",
+    "static/js/2.af513b0e.chunk.js": "/modern-landing-page/static/js/2.af513b0e.chunk.js",
+    "static/js/2.af513b0e.chunk.js.map": "/modern-landing-page/static/js/2.af513b0e.chunk.js.map",
+    "index.html": "/modern-landing-page/index.html",
+    "static/css/main.186b540a.chunk.css.map": "/modern-landing-page/static/css/main.186b540a.chunk.css.map",
+    "static/js/2.af513b0e.chunk.js.LICENSE.txt": "/modern-landing-page/static/js/2.af513b0e.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/modern-landing-page/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/modern-landing-page/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/modern-landing-page/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/modern-landing-page/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/modern-landing-page/static/media/blog04.742c1357.png",
+    "static/media/logo.16efaf42.svg": "/modern-landing-page/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/modern-landing-page/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/modern-landing-page/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ae2cfaa.js",
+    "static/js/2.af513b0e.chunk.js",
+    "static/css/main.186b540a.chunk.css",
+    "static/js/main.fc0598c8.chunk.js"
+  ]
+}
